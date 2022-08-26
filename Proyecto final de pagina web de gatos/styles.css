@@ -1,0 +1,10 @@
+body{
+    background-color: #0ecbfa;
+    
+    justify-content: center;
+}
+.Primera-seccion{
+    display: flex;
+  justify-content: right;  
+
+}
